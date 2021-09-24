@@ -35,7 +35,7 @@
 </div>
 
 
-## My Current Programming Setup:
+### My Current Programming Setup:
 <div>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/WSL-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -44,6 +44,8 @@
 </div>
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
+
 <!--
 **BNH440/BNH440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
