@@ -1,7 +1,6 @@
 ### Hello! 👋
 
-I am a high school student interested in many different areas of programming including programming web applications, server-side software, APIs, and automation scripts.
-
+I am a high school student interested in many different areas of programming including programming web applications, server-side software, APIs, automation scripts, and robots!
 #### I am currently using and learning these technologies for my next project:
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
