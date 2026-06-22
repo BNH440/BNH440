@@ -1,7 +1,7 @@
 ### Hello! 👋
 
-I'm a 2nd year at UC Berkeley for _Electrical Engineering and Computer Sciences_, interested in many different areas of technology including programming web/mobile apps, server-side software, APIs, automation scripts, and robots!
+I'm a 3rd year EECS student at UC Berkeley, currently focused on infrastructure as code and systems programming. I'm also interested in programming mobile apps, automation scripts, robots, and more!
 
-#### I'm currently working on several projects — check them out [here!](https://blakehaug.com/projects)
+#### Check out my website [here!](https://blakehaug.com)
 
 #### You can contact me at blake@blakehaug.com
